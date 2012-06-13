@@ -44,4 +44,4 @@ foreach ( $data as $row => $cells )
 $output->outputLine( 'eZ components team:' );
 $table->outputTable();
 $output->outputLine();
-?> 
+?>
